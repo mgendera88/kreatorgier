@@ -1,0 +1,301 @@
+[
+  {
+    "tresc": "Która postać z uniwersum Harrego Pottera najbardziej wkurwia?",
+    "Odpowiedzi": [
+      {
+        "tresc": "Umbridge",
+        "wartosc": 26
+      },
+      {
+        "tresc": "Malfoj",
+        "wartosc": 21
+      },
+      {
+        "tresc": "Harry Potter",
+        "wartosc": 15
+      },
+      {
+        "tresc": "Hermiona",
+        "wartosc": 10
+      }
+    ],
+    "czyfinal": false,
+    "ktore": 1
+  },
+  {
+    "tresc": "Sport z wf w którym NIE rzucamy?",
+    "Odpowiedzi": [
+      {
+        "tresc": "Bieganie",
+        "wartosc": 26
+      },
+      {
+        "tresc": "Unihokej",
+        "wartosc": 21
+      },
+      {
+        "tresc": "Siatkówka",
+        "wartosc": 10
+      },
+      {
+        "tresc": "Siłownia",
+        "wartosc": 9
+      }
+    ],
+    "czyfinal": false,
+    "ktore": 2
+  },
+  {
+    "tresc": "Metody wykonywania kary śmierci na przestrzeni lat",
+    "Odpowiedzi": [
+      {
+        "tresc": "Krzesło elektryczne",
+        "wartosc": 30
+      },
+      {
+        "tresc": "Gilotyna",
+        "wartosc": 21
+      },
+      {
+        "tresc": "Szubienica",
+        "wartosc": 10
+      },
+      {
+        "tresc": "Ukamieniowanie",
+        "wartosc": 9
+      }
+    ],
+    "czyfinal": false,
+    "ktore": 3
+  },
+  {
+    "tresc": "Na co można mieć alergie?",
+    "Odpowiedzi": [
+      {
+        "tresc": "Pyłki",
+        "wartosc": 30
+      },
+      {
+        "tresc": "Orzechy",
+        "wartosc": 26
+      },
+      {
+        "tresc": "Koty",
+        "wartosc": 10
+      },
+      {
+        "tresc": "Na chuja",
+        "wartosc": 9
+      }
+    ],
+    "czyfinal": false,
+    "ktore": 4
+  },
+  {
+    "tresc": "Gdzie spotykają się faceci?",
+    "Odpowiedzi": [
+      {
+        "tresc": "W barze",
+        "wartosc": 52
+      },
+      {
+        "tresc": "W grze/na discordzie",
+        "wartosc": 35
+      },
+      {
+        "tresc": "Gdziekolwiek jest alkohol",
+        "wartosc": 20
+      },
+      {
+        "tresc": "Siłownia",
+        "wartosc": 18
+      }
+    ],
+    "czyfinal": false,
+    "ktore": 5
+  },
+  {
+    "tresc": "Co zabieramy ze sobą na ryby?",
+    "Odpowiedzi": [
+      {
+        "tresc": "Piwo",
+        "wartosc": 78
+      },
+      {
+        "tresc": "Flaszke",
+        "wartosc": 63
+      },
+      {
+        "tresc": "Wędkę",
+        "wartosc": 40
+      },
+      {
+        "tresc": "Kolege geja / Nie babe",
+        "wartosc": 25
+      }
+    ],
+    "czyfinal": false,
+    "ktore": 6
+  },
+  {
+    "tresc": "Przyrząd do makijażu który ma każda kobieta",
+    "Odpowiedzi": [
+      {
+        "tresc": "Zalotka",
+        "wartosc": 26
+      },
+      {
+        "tresc": "Pędzel",
+        "wartosc": 21
+      },
+      {
+        "tresc": "Szminka",
+        "wartosc": 10
+      },
+      {
+        "tresc": "Lusterko",
+        "wartosc": 9
+      }
+    ],
+    "czyfinal": true,
+    "ktore": 7
+  },
+  {
+    "tresc": "Bajki dla dzieci ze zwierzętami w roli głównej",
+    "Odpowiedzi": [
+      {
+        "tresc": "Zootopia",
+        "wartosc": 26
+      },
+      {
+        "tresc": "Madagaskar",
+        "wartosc": 21
+      },
+      {
+        "tresc": "Kubuś puchatek",
+        "wartosc": 10
+      },
+      {
+        "tresc": "Niedźwiedź w dużym niebieskim domu",
+        "wartosc": 9
+      }
+    ],
+    "czyfinal": true,
+    "ktore": 8
+  },
+  {
+    "tresc": "Zwierzęta które latają a nie są ptakami?",
+    "Odpowiedzi": [
+      {
+        "tresc": "Nietoperz",
+        "wartosc": 26
+      },
+      {
+        "tresc": "Ryby",
+        "wartosc": 21
+      },
+      {
+        "tresc": "Owady",
+        "wartosc": 10
+      },
+      {
+        "tresc": "Wiewiórka",
+        "wartosc": 9
+      }
+    ],
+    "czyfinal": true,
+    "ktore": 9
+  },
+  {
+    "tresc": "Inne określenie na NIC?",
+    "Odpowiedzi": [
+      {
+        "tresc": "Zero",
+        "wartosc": 26
+      },
+      {
+        "tresc": "Gówno",
+        "wartosc": 21
+      },
+      {
+        "tresc": "Pustka",
+        "wartosc": 10
+      },
+      {
+        "tresc": "Null",
+        "wartosc": 9
+      }
+    ],
+    "czyfinal": true,
+    "ktore": 10
+  },
+  {
+    "tresc": "Najpopularniejsze bożki lub kreatury słowiańskie",
+    "Odpowiedzi": [
+      {
+        "tresc": "Leszy",
+        "wartosc": 26
+      },
+      {
+        "tresc": "Światowid",
+        "wartosc": 21
+      },
+      {
+        "tresc": "Perun",
+        "wartosc": 10
+      },
+      {
+        "tresc": "Baba Jaga",
+        "wartosc": 9
+      }
+    ],
+    "czyfinal": true,
+    "ktore": 11
+  },
+  {
+    "tresc": "Potocznie na przerwe na papierosa?",
+    "Odpowiedzi": [
+      {
+        "tresc": "Na dymka",
+        "wartosc": 26
+      },
+      {
+        "tresc": "Palma do palmy",
+        "wartosc": 21
+      },
+      {
+        "tresc": "Rauchen pausen",
+        "wartosc": 10
+      },
+      {
+        "tresc": "Dotlenić się",
+        "wartosc": 9
+      }
+    ],
+    "czyfinal": true,
+    "ktore": 12
+  },
+  {
+    "tresc": "Wzory lub równania matematyczne nazwane po kimś",
+    "Odpowiedzi": [
+      {
+        "tresc": "Pitagoras",
+        "wartosc": 26
+      },
+      {
+        "tresc": "Tales",
+        "wartosc": 21
+      },
+      {
+        "tresc": "Viet",
+        "wartosc": 10
+      },
+      {
+        "tresc": "Pascal",
+        "wartosc": 9
+      }
+    ],
+    "czyfinal": true,
+    "ktore": 13
+  }
+]

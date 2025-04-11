@@ -1,0 +1,19 @@
+﻿@model familiada.Models.AdminViewModel
+@if (Model.Pytania.Any())
+{
+	var pytanie = Model.Pytania[Model.runda];
+	<div class="pytanie">
+		<h1>@pytanie.tresc</h1>
+		<ul class="pytanielista">
+			@for(int i=0;i<pytanie.Odpowiedzi.Count;i++)
+			{
+				var odp = pytanie.Odpowiedzi[i];
+				<li id="odpowiedz-@i" style="display:none">@odp.tresc @odp.wartosc</li>
+			}
+		</ul>
+	</div>
+}
+else
+{
+	<p>brak pytań</p>
+}

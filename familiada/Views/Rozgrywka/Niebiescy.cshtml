@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Niebiescy";
+}
+
+<h2>Niebiescy</h2>
+
+<button id="niebiescyBtn" class="niebiescy_przycisk"></button>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.5/signalr.min.js"></script>
+<script>
+    const connection = new signalR.HubConnectionBuilder()
+        .withUrl("/wynikiHub")
+        .build();
+
+    // Zdarzenie do obsługi komunikatów z SignalR (np. aktualizacja wyników)
+    connection.on("OdswiezWyniki", function () {
+        fetch("/Rozgrywka/PobierzWynikiPartial")
+            .then(response => response.text())
+            .then(html => {
+                document.getElementById("wyniki-container").innerHTML = html;
+            });
+    });
+
+    // Rozpoczynamy połączenie SignalR
+    connection.start().catch(function (err) {
+        return console.error(err.toString());
+    });
+    document.getElementById("niebiescyBtn").addEventListener("click", function () {
+        wyslijKlikniecie("Niebiescy");
+    });
+
+    // Funkcja do wysyłania kliknięcia
+    function wyslijKlikniecie(zespol) {
+        fetch(`/Rozgrywka/ZarejestrujKlikniecie?zespol=${zespol}`)
+            .then(response => response.json())
+            .then(data => {
+                if (data.sukces) {
+                    console.log(`${zespol} kliknięty!`);
+                    // SignalR lub inny sposób aktualizacji widoku
+                    connection.invoke("OdswiezWyniki").catch(err => console.error(err.toString()));
+                }
+            })
+            .catch(error => {
+                console.error("Błąd przy rejestracji kliknięcia: ", error);
+            });
+    }
+</script>

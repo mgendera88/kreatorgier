@@ -1,0 +1,68 @@
+﻿@model familiada.Models.AdminViewModel
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Zespół</th>
+            <th>Ostatnie wciśnięcie</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var z in Model.Zespoly)
+        {
+            <tr>
+                <td>@z.Nazwa</td>
+                <td>
+                    @if (z.Przycisniety != null)
+                    {
+                        @z.Przycisniety.Value.ToString("HH:mm:ss.fff")
+                    }
+                    else
+                    {
+                        <span style="color: gray;">Nie kliknięto</span>
+                    }
+                </td>
+                <td>
+                    @if (z.Nazwa == "Czerwoni")
+                    {
+                        <span style="color:red">@z.punkty</span>
+                    }
+                    else
+                    {
+                        <span style="color:blue">@z.punkty</span>
+                    }
+                </td>
+                <td>
+                    @if (z.Nazwa == "Czerwoni")
+                    {
+                        <span style="color:red">@z.szanse</span>
+                    }
+                    else
+                    {
+                        <span style="color:blue">@z.szanse</span>
+                    }
+                </td>
+                <td>
+                    @if(z.Nazwa == "Czerwoni")
+                    {
+                        <button onclick="odajSzanse('@z.Nazwa')" style="color:red">SKUCHA</button>
+                    }
+                    else
+                    {
+                        <button onclick="odajSzanse('@z.Nazwa')" style="color:blue">SKUCHA</button>
+                    }
+                </td>
+                <td>
+                    @if (z.Nazwa == "Czerwoni")
+                    {
+                        <button onclick="dodajpunkty('@z.Nazwa')" style="color:red">Przydziel punkty</button>
+                    }
+                    else
+                    {
+                        <button onclick="dodajpunkty('@z.Nazwa')" style="color:blue">Przydziel punkty</button>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

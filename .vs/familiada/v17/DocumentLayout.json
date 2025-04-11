@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\familiada\\familiada\\familiada.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|solutionrelative:familiada\\familiada.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\familiada\\familiada\\views\\rozgrywka\\pytanie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|solutionrelative:familiada\\views\\rozgrywka\\pytanie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\familiada\\familiada\\views\\rozgrywka\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|solutionrelative:familiada\\views\\rozgrywka\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\familiada\\familiada\\views\\rozgrywka\\runda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|solutionrelative:familiada\\views\\rozgrywka\\runda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\familiada\\familiada\\models\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|solutionrelative:familiada\\models\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\familiada\\familiada\\hubs\\wynikihub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|solutionrelative:familiada\\hubs\\wynikihub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\familiada\\familiada\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|solutionrelative:familiada\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\familiada\\familiada\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|solutionrelative:familiada\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\familiada\\familiada\\views\\rozgrywka\\czerwoni.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|solutionrelative:familiada\\views\\rozgrywka\\czerwoni.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\familiada\\familiada\\views\\rozgrywka\\niebiescy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|solutionrelative:familiada\\views\\rozgrywka\\niebiescy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\familiada\\familiada\\views\\rozgrywka\\gracz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|solutionrelative:familiada\\views\\rozgrywka\\gracz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\familiada\\familiada\\wwwroot\\pytania.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|solutionrelative:familiada\\wwwroot\\pytania.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\familiada\\familiada\\controllers\\rozgrywkacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|solutionrelative:familiada\\controllers\\rozgrywkacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\familiada\\familiada\\models\\odpowiedz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|solutionrelative:familiada\\models\\odpowiedz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\familiada\\familiada\\services\\pytaniaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|solutionrelative:familiada\\services\\pytaniaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\familiada\\familiada\\models\\zespol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|solutionrelative:familiada\\models\\zespol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\familiada\\familiada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|solutionrelative:familiada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\familiada\\familiada\\views\\rozgrywka\\admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|solutionrelative:familiada\\views\\rozgrywka\\admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|c:\\users\\gembc\\onedrive\\dokumenty\\familiada\\familiada\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80431DC4-3752-4D17-A86D-F47EC9868F53}|familiada\\familiada.csproj|solutionrelative:familiada\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pytanie.cshtml",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Views\\Rozgrywka\\Pytanie.cshtml",
+              "RelativeDocumentMoniker": "familiada\\Views\\Rozgrywka\\Pytanie.cshtml",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Views\\Rozgrywka\\Pytanie.cshtml",
+              "RelativeToolTip": "familiada\\Views\\Rozgrywka\\Pytanie.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T01:34:44.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Models\\AdminViewModel.cs",
+              "RelativeDocumentMoniker": "familiada\\Models\\AdminViewModel.cs",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Models\\AdminViewModel.cs",
+              "RelativeToolTip": "familiada\\Models\\AdminViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T01:01:09.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Runda.cshtml",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Views\\Rozgrywka\\Runda.cshtml",
+              "RelativeDocumentMoniker": "familiada\\Views\\Rozgrywka\\Runda.cshtml",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Views\\Rozgrywka\\Runda.cshtml",
+              "RelativeToolTip": "familiada\\Views\\Rozgrywka\\Runda.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T22:10:12.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Views\\Rozgrywka\\Admin.cshtml",
+              "RelativeDocumentMoniker": "familiada\\Views\\Rozgrywka\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Views\\Rozgrywka\\Admin.cshtml",
+              "RelativeToolTip": "familiada\\Views\\Rozgrywka\\Admin.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEYAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T20:58:19.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Czerwoni.cshtml",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Views\\Rozgrywka\\Czerwoni.cshtml",
+              "RelativeDocumentMoniker": "familiada\\Views\\Rozgrywka\\Czerwoni.cshtml",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Views\\Rozgrywka\\Czerwoni.cshtml",
+              "RelativeToolTip": "familiada\\Views\\Rozgrywka\\Czerwoni.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T21:18:17.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Niebiescy.cshtml",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Views\\Rozgrywka\\Niebiescy.cshtml",
+              "RelativeDocumentMoniker": "familiada\\Views\\Rozgrywka\\Niebiescy.cshtml",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Views\\Rozgrywka\\Niebiescy.cshtml",
+              "RelativeToolTip": "familiada\\Views\\Rozgrywka\\Niebiescy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T21:18:05.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "familiada\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "familiada\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T15:23:49.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "familiada\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "familiada\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-10T21:26:22.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "familiada.csproj",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\familiada.csproj",
+              "RelativeDocumentMoniker": "familiada\\familiada.csproj",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\familiada.csproj",
+              "RelativeToolTip": "familiada\\familiada.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T21:33:52.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WynikiHub.cs",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Hubs\\WynikiHub.cs",
+              "RelativeDocumentMoniker": "familiada\\Hubs\\WynikiHub.cs",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Hubs\\WynikiHub.cs",
+              "RelativeToolTip": "familiada\\Hubs\\WynikiHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T22:03:48.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Gracz.cshtml",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Views\\Rozgrywka\\Gracz.cshtml",
+              "RelativeDocumentMoniker": "familiada\\Views\\Rozgrywka\\Gracz.cshtml",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Views\\Rozgrywka\\Gracz.cshtml",
+              "RelativeToolTip": "familiada\\Views\\Rozgrywka\\Gracz.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T20:57:48.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RozgrywkaController.cs",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Controllers\\RozgrywkaController.cs",
+              "RelativeDocumentMoniker": "familiada\\Controllers\\RozgrywkaController.cs",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Controllers\\RozgrywkaController.cs",
+              "RelativeToolTip": "familiada\\Controllers\\RozgrywkaController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwD8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:07:45.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Odpowiedz.cs",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Models\\Odpowiedz.cs",
+              "RelativeDocumentMoniker": "familiada\\Models\\Odpowiedz.cs",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Models\\Odpowiedz.cs",
+              "RelativeToolTip": "familiada\\Models\\Odpowiedz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T00:41:43.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pytania.json",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\wwwroot\\Pytania.json",
+              "RelativeDocumentMoniker": "familiada\\wwwroot\\Pytania.json",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\wwwroot\\Pytania.json",
+              "RelativeToolTip": "familiada\\wwwroot\\Pytania.json",
+              "ViewState": "AQIAAOUAAAAAAAAAAAAkwAgBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T00:44:53.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PytaniaService.cs",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Services\\PytaniaService.cs",
+              "RelativeDocumentMoniker": "familiada\\Services\\PytaniaService.cs",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Services\\PytaniaService.cs",
+              "RelativeToolTip": "familiada\\Services\\PytaniaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T00:42:49.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Zespol.cs",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Models\\Zespol.cs",
+              "RelativeDocumentMoniker": "familiada\\Models\\Zespol.cs",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Models\\Zespol.cs",
+              "RelativeToolTip": "familiada\\Models\\Zespol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:51:25.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Program.cs",
+              "RelativeDocumentMoniker": "familiada\\Program.cs",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Program.cs",
+              "RelativeToolTip": "familiada\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T22:01:50.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Admin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Views\\Rozgrywka\\Admin.cshtml.cs",
+              "RelativeDocumentMoniker": "familiada\\Views\\Rozgrywka\\Admin.cshtml.cs",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Views\\Rozgrywka\\Admin.cshtml.cs",
+              "RelativeToolTip": "familiada\\Views\\Rozgrywka\\Admin.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:47:24.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "familiada\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gembc\\OneDrive\\Dokumenty\\familiada\\familiada\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "familiada\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:23:37.001Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

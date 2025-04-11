@@ -1,0 +1,89 @@
+﻿@model familiada.Models.AdminViewModel
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.5/signalr.min.js"></script>
+<script>
+    let pula=0;
+    const connection = new signalR.HubConnectionBuilder()
+        .withUrl("/wynikiHub")
+        .build();
+
+    connection.on("OdswiezWyniki", function () {
+        fetch("/Rozgrywka/PobierzWynikiPartial")
+            .then(response => response.text())
+            .then(html => {
+                document.getElementById("wyniki-container").innerHTML = html;
+            });
+    });
+
+    connection.start().catch(function (err) {
+        return console.error(err.toString());
+    });
+    function przyciskrunda() {
+        console.log('Kliknięto przycisk rundy');
+        fetch('/Rozgrywka/przyciskrunda', {
+            method: 'GET',
+        })
+            .then(response => response.json())
+            .then(data => {
+                if (data.sukces) {
+                    console.log(`Kolejna runda`);
+                    pula=0;
+                    fetch('/Rozgrywka/PobierzPytaniePartial')
+                        .then(response => response.text())
+                        .then(html => {
+                            document.getElementById("runda-container").innerHTML = html;
+                        });
+                    fetch('/Rozgrywka/PobierzWynikiPartial')
+                        .then(response => response.text())
+                        .then(html => {
+                            document.getElementById("wyniki-container").innerHTML = html;
+                        });
+                }
+            })
+            .catch(error => console.error('Błąd:', error));
+    }
+    function odajSzanse(nazwaZespolu) {
+        console.log('Przesyłamy nazwę zespołu: ', nazwaZespolu); // Debugowanie
+        fetch(`/Rozgrywka/OdejmijSzanse?nazwa=${nazwaZespolu}`, {
+            method: 'GET',
+        })
+            .then(response => response.json())
+            .then(data => {
+                if (data.sukces) {
+                    console.log(`${nazwaZespolu} stracił szansę!`);
+                }
+            })
+            .catch(error => console.error('Błąd przy odejmowaniu szans:', error));
+    }
+    document.addEventListener('keydown', function (e){
+        const key = e.key;
+        if (key >= '1' && key <= '5') {
+            const index = parseInt(key) - 1;
+            const odpowiedz = document.getElementById(`odpowiedz-${index}`);
+            if (odpowiedz && odpowiedz.style.display === 'none') {
+                odpowiedz.style.display = 'list-item';
+                const tekst = odpowiedz.textContent;
+                const regex = /(\d+)/;
+                const match = tekst.match(regex);
+                if (match) {
+                    const punkty = parseInt(match[1]);
+                    pula += punkty;
+                    document.getElementById("ile").innerHTML = "Punkty: "+pula;
+                }
+            }
+        }
+    });
+    function dodajpunkty(nazwaZespolu){
+        fetch(`/Rozgrywka/DodajPunkty?nazwa=${nazwaZespolu}&punkty=${pula}`, {
+            method: 'GET',
+        })
+    }
+</script>
+<div id="runda-container">
+    @await Html.PartialAsync("Pytanie",Model)
+</div>
+<p id="ile"></p>
+<button onclick="przyciskrunda()">Kolejna runda</button>
+<div id="wyniki-container">
+    @await Html.PartialAsync("Runda", Model) 
+</div>
